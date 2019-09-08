@@ -7,7 +7,7 @@
 
 // Disable login (don't ask for credentials, be careful)
 // Example: $NO_LOGIN = true;
-$NO_LOGIN = false;
+$NO_LOGIN = true;
 
 // Single-user credentials
 // Example: $USER = 'user'; $PASSWORD = 'password';
