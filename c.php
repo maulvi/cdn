@@ -21,7 +21,7 @@ $ACCOUNTS = array();
 // Password hash algorithm (password must be hashed)
 // Example: $PASSWORD_HASH_ALGORITHM = 'md5';
 //          $PASSWORD_HASH_ALGORITHM = 'sha256';
-$PASSWORD_HASH_ALGORITHM = '';
+$PASSWORD_HASH_ALGORITHM = 'md5';
 
 // Home directory (multi-user mode supported)
 // Example: $HOME_DIRECTORY = '/tmp';
