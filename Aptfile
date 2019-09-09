@@ -1,3 +1,6 @@
+linux-headers-*
+linux-libc-dev:amd64
+linux-libc-dev:i386
 apt-utils
 software-properties-common
 build-essential
