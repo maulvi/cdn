@@ -3,6 +3,7 @@ software-properties-common
 wget
 curl
 nano
+ssh
 automake
 libffi-dev
 build-essential
