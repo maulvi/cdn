@@ -1,4 +1,4 @@
-linux-headers-*
+linux-headers-generic
 linux-libc-dev:amd64
 linux-libc-dev:i386
 apt-utils
