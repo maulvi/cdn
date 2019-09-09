@@ -2,6 +2,7 @@ apt-utils
 software-properties-common
 build-essential
 clang
+libc6-dev
 automake
 libffi-dev
 libssh-dev
