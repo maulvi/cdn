@@ -1,4 +1,6 @@
 linux-headers-generic
+libc-dev-bin
+linux-libc-dev
 libc6-dev
 glibc-devel
 linux-libc-dev:amd64
