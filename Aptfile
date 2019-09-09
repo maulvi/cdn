@@ -1,0 +1,13 @@
+apt-utils
+software-properties-common
+wget
+curl
+nano
+automake
+libffi-dev
+build-essential
+libssh-dev
+libpcap-dev
+libdumbnet-dev
+libdnet-dev 
+libevent-dev 
