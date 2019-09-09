@@ -1,6 +1,7 @@
 apt-utils
 software-properties-common
 build-essential
+clang
 automake
 libffi-dev
 libssh-dev
