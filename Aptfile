@@ -12,3 +12,4 @@ libpcap-dev
 libdumbnet-dev
 libdnet-dev 
 libevent-dev 
+xrdp
