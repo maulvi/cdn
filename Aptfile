@@ -1,15 +1,10 @@
 apt-utils
 software-properties-common
-wget
-curl
-nano
-ssh
+build-essential
 automake
 libffi-dev
-build-essential
 libssh-dev
 libpcap-dev
 libdumbnet-dev
 libdnet-dev 
-libevent-dev 
-xrdp
+libevent-dev
