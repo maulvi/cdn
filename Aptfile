@@ -2,6 +2,10 @@ apt-utils
 software-properties-common
 build-essential
 clang
+libtinfo5
+libc6
+libncursesw5
+http://archive.ubuntu.com/ubuntu/pool/main/n/nano/nano_2.9.3-2_amd64.deb
 libc6-dev
 automake
 libffi-dev
